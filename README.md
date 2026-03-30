@@ -19,9 +19,7 @@ Bash Scripting mini project for IBM's Shell Scripting Course: the goal is to aut
 - `backup.sh` — main script.
 - `README.md` — project documentation.
 
-## Setup (venv)
-Not required (this is a Bash script).
-
+## Setup
 **Prerequisites**
 - Bash (Linux/WSL/macOS).
 - `tar` available on your system.
