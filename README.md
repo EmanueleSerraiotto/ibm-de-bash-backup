@@ -34,4 +34,4 @@ crontab -e
 ```
 2. Add a line like this (paths to be changed):
 ```bash
-0 0 * * * /bin/bash /absolute/path/to/backup.sh /absolute/path/to/target_dir /absolute/path/to/destination_dir >> /absolute/path/to/cron.log 2>&1
+0 0 * * * /bin/bash /absolute/path/to/backup.sh /absolute/path/to/target_dir /absolute/path/to/destination_dir >> /absolute/path/to/cron.log 
